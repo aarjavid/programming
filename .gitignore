@@ -1,2 +1,6 @@
 *.DS_Store
 *.out
+*.xml
+*.class
+*.idea
+*.iml
