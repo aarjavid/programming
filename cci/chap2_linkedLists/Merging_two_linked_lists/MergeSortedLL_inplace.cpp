@@ -1,4 +1,4 @@
-//Program to merge two sorted Linked lists in place. 
+//Program to merge two sorted Linked lists in place.
 #include <iostream>
 using namespace std;
 int debug = 0;

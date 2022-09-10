@@ -1,4 +1,4 @@
-//Recursive program to merge two sorted Linked lists .
+//Recursive program to merge two sorted Linked lists.
 
 #include<iostream>
 using namespace std;
